@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/bcontrol-backup/static/css/main.290017f1.css",
-    "main.js": "/bcontrol-backup/static/js/main.66a2f4d6.js",
+    "main.js": "/bcontrol-backup/static/js/main.5fffb82b.js",
     "static/js/787.3f430a0c.chunk.js": "/bcontrol-backup/static/js/787.3f430a0c.chunk.js",
     "static/media/graph.svg": "/bcontrol-backup/static/media/graph.fa57106f98d92e3903fb2fdb950b4685.svg",
     "static/media/plus.svg": "/bcontrol-backup/static/media/plus.07569642045f5c6fd6521ec31a72c22f.svg",
@@ -10,11 +10,11 @@
     "static/media/info.svg": "/bcontrol-backup/static/media/info.ad429b04049882b927bd336edbe854c4.svg",
     "static/media/checkbox-off.svg": "/bcontrol-backup/static/media/checkbox-off.a2ec126b23c911af188eecc8231e8b00.svg",
     "main.290017f1.css.map": "/bcontrol-backup/static/css/main.290017f1.css.map",
-    "main.66a2f4d6.js.map": "/bcontrol-backup/static/js/main.66a2f4d6.js.map",
+    "main.5fffb82b.js.map": "/bcontrol-backup/static/js/main.5fffb82b.js.map",
     "787.3f430a0c.chunk.js.map": "/bcontrol-backup/static/js/787.3f430a0c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.290017f1.css",
-    "static/js/main.66a2f4d6.js"
+    "static/js/main.5fffb82b.js"
   ]
 }
